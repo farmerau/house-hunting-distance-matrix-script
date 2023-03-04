@@ -1,5 +1,3 @@
-using System.Drawing;
-
 namespace Austin.Farmer.Codes.HouseHunting.DistanceMatrix;
 
 public static class EnumerableExtensions
